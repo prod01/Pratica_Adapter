@@ -1,0 +1,3 @@
+interface PinoRedondo {
+    double getRaio();
+}
